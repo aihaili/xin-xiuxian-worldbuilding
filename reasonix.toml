@@ -1,0 +1,2 @@
+[permissions]
+allow = ["Bash(curl -sSL \"https://chat.deepseek.com/share/4am4qu9rtc1xm1m8if\" 2>/dev/null | head -200)"]
